@@ -15,7 +15,7 @@ the data called CodeBook.md.
 
 ## Documentation
 
-To check more details, about process and variables, you could check the file [Codebook.md](Codebook.md) included in this folder of the repository.
+To check more details, about process and variables, you could check the file [CodeBook.md](CodeBook.md) included in this folder of the repository.
 
 Script file is named [run_analysis.R](run_analysis.R) included also in the same folder of the repository.
  
